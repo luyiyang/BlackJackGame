@@ -14,7 +14,7 @@ The human player can choose to get another card. If they do, the new score is th
 
 When the player is happy with the score and doesn’t wish to take any more cards, they can choose to STAND.
 
-Now it’s the computer’s turn. The first step is to turn over the face down card.
+Now it’s the computer’s turn.
 
 The computer’s strategy in this game is fixed. As long as the computer score is less than 17, the computer keeps taking a card.
 
